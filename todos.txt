@@ -1,0 +1,27 @@
+0. Imputes
+1. outliers and boxplots.
+2. remove impute for def_30_cnt... columns
+3. DAta cleaning: Impute null value for unknown in NAME_FAMILY_STATUS as graph can be misleading.
+inplace in corr sort_values
+
+Amrita:
+1. Convert region rating column to categorical.
+2. family members : repayer/defaulter on categorical values(binning and children no children)
+3. client age - bin
+4. income total - bin - bar chart and target as hue.
+5. categorical variables - log plots - use singaram's analysis
+
+
+
+todo:
+6. change donut for that 8 subplots to categorical plots(countplot)
+9. check for dates in forum.
+
+Use amrita's for:
+Occupation percentage in data with respect to repayment status
+analyzing equiries to Credit Bureau about the client before application : no need of mean and SD
+no need of "Scatter plot between credit amount and annuity amount"
+Use "Comparing Organization Type with loan repayment status"
+CORRELATION: Distribution of Income, Education, Family status and housing type : studnet and business men.
+Convert to Pie? Distribution of contract type ,gender ,own car ,own house with respect to Repayment status(Target variable) may be break and put in different placeS? repayer and defaulter side by side. and change colors to red and green.
+Comparing summary statistics between defaulters and non - defaulters for loan amounts: Find some other plot which helps to infer
