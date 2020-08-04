@@ -1,5 +1,3 @@
-
-*.csv
 Credit EDA/.ipynb_checkpoints/Credit_EDA_Case_Study-checkpoint.ipynb
 Credit EDA/.ipynb_checkpoints/References-checkpoint.ipynb
 Credit EDA/~$Credit EDA Case Study.pptx
@@ -45,3 +43,9 @@ Exploratory Data Analysis on Credit Risk/Upgrad session/session notes.pdf
 01_Data Analysis on IMDb data set/.ipynb_checkpoints/Data Analysis on IMDb movie_Padma-checkpoint.ipynb
 02_Exploratory Data Analysis on Credit Risk/.ipynb_checkpoints/Credit_EDA_Case_Study_ AmritaC + PadmaA-checkpoint.ipynb
 02_Exploratory Data Analysis on Credit Risk/Credit_EDA_Case_Study_ AmritaC + PadmaA - CSS.ipynb
+03_Linear Regression Model on Bike Sharing/.ipynb_checkpoints/Predictive Model Using Linear Regression-checkpoint.ipynb
+01_Data Analysis on IMDb data set/Movie+Data.csv
+02_Exploratory Data Analysis on Credit Risk/Dataset/application_data.csv
+02_Exploratory Data Analysis on Credit Risk/Dataset/columns_description.csv
+02_Exploratory Data Analysis on Credit Risk/Dataset/previous_application.csv
+02_Exploratory Data Analysis on Credit Risk/Upgrad session/telco_churn.csv
